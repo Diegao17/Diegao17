@@ -1,4 +1,4 @@
-Hi, I'm Diego García
+Hi, I'm Diego Garcia
 
 Software Engineering graduate (Dec 2026) from Universidad Autónoma de Guadalajara, Guadalajara, Mexico.
 I build full-stack web apps with Java / Spring Boot and React + TypeScript, backed by PostgreSQL. I'm looking for a remote junior role where I can ship real features and keep learning.
